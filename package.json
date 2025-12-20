@@ -1,0 +1,20 @@
+{
+  "name": "24_seven",
+  "version": "1.0.0",
+  "description": "A Video Call Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaf-qa25/24_SEVEN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaf-qa25/24_SEVEN/issues"
+  },
+  "homepage": "https://github.com/shaf-qa25/24_SEVEN#readme"
+}
